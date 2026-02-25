@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Crew",
+  "base_artist": "GoldLink",
+  "createdAt": "2026-02-25T17:18:28.555745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crew Love",
+      "artist": "Drake feat. The Weeknd",
+      "has_synced": true,
+      "path": "select/01_Crew_Love_Drake_feat._The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crew Love (feat. The Weeknd)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_Crew_Love_(feat._The_Weeknd)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crew",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/03_Crew_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crew Vom Deich",
+      "artist": "Deichkind",
+      "has_synced": true,
+      "path": "select/04_Crew_Vom_Deich_Deichkind.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Le crew est de sortie",
+      "artist": "Sniper",
+      "has_synced": true,
+      "path": "select/05_Le_crew_est_de_sortie_Sniper.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Le crew est de sortie (intro)",
+      "artist": "Sniper",
+      "has_synced": false,
+      "path": "select/06_Le_crew_est_de_sortie_(intro)_Sniper.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Beautiful Young Crew",
+      "artist": "Lawrence Arabia",
+      "has_synced": true,
+      "path": "select/07_The_Beautiful_Young_Crew_Lawrence_Arabia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In the Crew of Tea Time",
+      "artist": "Sébastien Tellier feat. Caroline Polachek",
+      "has_synced": true,
+      "path": "select/08_In_the_Crew_of_Tea_Time_Sébastien_Tellier_feat._Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In the Crew of Tea Time",
+      "artist": "Caroline Polachek & Sébastien Tellier",
+      "has_synced": true,
+      "path": "select/09_In_the_Crew_of_Tea_Time_Caroline_Polachek_&_Sébastien_Tellier.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hate Crew Deathroll",
+      "artist": "Children of Bodom",
+      "has_synced": true,
+      "path": "select/10_Hate_Crew_Deathroll_Children_of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black Tambourine (South Rakkas Crew Remix)",
+      "artist": "Beck",
+      "has_synced": false,
+      "path": "select/11_Black_Tambourine_(South_Rakkas_Crew_Remix)_Beck.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Close (Country Club Martini Crew acoustic mix)",
+      "artist": "Nick Jonas & Tove Lo",
+      "has_synced": true,
+      "path": "select/12_Close_(Country_Club_Martini_Crew_acoustic_mix)_Nick_Jonas_&_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In the Crew of Tea Time",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/13_In_the_Crew_of_Tea_Time_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Poison Dart (South Rakkas Crew remix)",
+      "artist": "The Bug feat. Warrior Queen",
+      "has_synced": false,
+      "path": "select/14_Poison_Dart_(South_Rakkas_Crew_remix)_The_Bug_feat._Warrior_Queen.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Poison Dart (South Rakkas Crew Remix)",
+      "artist": "The Bug ft. Warrior Queen",
+      "has_synced": false,
+      "path": "select/15_Poison_Dart_(South_Rakkas_Crew_Remix)_The_Bug_ft._Warrior_Queen.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Crew Deep (remix)",
+      "artist": "Skillz feat. Clipse, Pharrell & Missy",
+      "has_synced": false,
+      "path": "select/16_Crew_Deep_(remix)_Skillz_feat._Clipse,_Pharrell_&_Missy.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "In Search Of The Youth Crew",
+      "artist": "Cadence Weapon",
+      "has_synced": false,
+      "path": "select/17_In_Search_Of_The_Youth_Crew_Cadence_Weapon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crew",
+      "artist": "GoldLink",
+      "has_synced": false,
+      "path": "select/pl_01_Crew_GoldLink.txt"
+    }
+  ]
+}
